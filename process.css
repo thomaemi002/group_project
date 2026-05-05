@@ -2,3 +2,8 @@ intro{
     font:bold;
     font-size: 24px;
 }
+.color-block {
+    width: 1300px;
+    height: 100px;
+    background-color:royalblue
+}
