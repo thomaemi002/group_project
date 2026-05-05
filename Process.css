@@ -7,3 +7,46 @@ intro{
     height: 100px;
     background-color:royalblue
 }
+
+body {
+    background-color: white;
+}
+
+h1, h2 {
+    color: blue;
+}
+
+hr {
+    border-color: gray;
+}
+
+li {
+    list-style-type: none;
+    float: left;
+    border-right-color: gray;
+    border-right-width: 1px;
+    border-right-style: solid;
+}
+
+li a {
+    display: block;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    background-color: blue;
+}
+
+li a:hover{
+    background-color: brown;
+}
+
+ul {
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+    margin-bottom: 20px;
+}
+
+a {
+    color: brown;
+}
