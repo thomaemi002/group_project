@@ -1,4 +1,4 @@
-intro{
+.intro{
     font:bold;
     font-size: 24px;
 }
@@ -49,4 +49,9 @@ a {
 .img-fluid {
     height: 300px;
     width: 300px;
+    object-fit: cover;
+}
+
+.container-fluid {
+    padding-left: 0
 }
