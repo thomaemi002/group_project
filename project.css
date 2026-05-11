@@ -45,3 +45,8 @@ ul {
 a {
     color: brown;
 }
+
+.img-fluid {
+    height: 300px;
+    width: 300px;
+}
