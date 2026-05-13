@@ -13,11 +13,17 @@ hr {
     border-color: gray;
 }
 
+ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden; 
+    background-color: blue;
+}
+
 li {
-    list-style-type: none;
-    border-right-color: gray;
-    border-right-width: 1px;
-    border-right-style: solid;
+    float: left;
+    border-right: 1px solid gray;
     margin: 0;
 }
 
@@ -26,22 +32,15 @@ li a {
     color: white;
     padding: 20px;
     text-align: center;
-    background-color: blue;
+    text-decoration: none;
 }
 
-li a:hover{
+li a:hover {
     background-color: red;
 }
 
-ul {
-    overflow: hidden;
-    margin: 0;
-    padding: 0;
-    margin-bottom: 20px;
-}
-
 a {
-    color: brown;
+    color: red;
 }
 
 .team {
