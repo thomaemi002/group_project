@@ -48,18 +48,15 @@ a {
 }
 
 .team img {
-    width: 300px;
-    height: 300px;
+    width: 100%;
+    max-width: 250px;
+    height: 250px;
     object-fit: cover;
-}
-
-.container-fluid {
-    padding-left: 0
 }
 
 .quote {
     color: red;
-    font:bold;
+    fon-weight: bold;
     font-size: 24px;
 }
 
