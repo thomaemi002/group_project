@@ -73,5 +73,6 @@ a {
 .calendar img {
     width: 1200px; 
     height: auto;
+    display: block;
 }
 
