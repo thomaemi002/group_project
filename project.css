@@ -61,12 +61,17 @@ a {
     font-size: 24px;
 }
 
-.speech {
-    width: 1000px;
-    height: 1000px;
-}
+.speech,
 .calendar {
     width: 800px;
-    height: 1000px;
+    height: 500px;
+    overflow: auto;
+    border: 1px solid gray;
+}
+
+.speech img,
+.calendar img {
+    width: 1200px; 
+    height: auto;
 }
 
