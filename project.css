@@ -32,6 +32,7 @@ li a {
     padding: 20px;
     text-align: center;
     text-decoration: none;
+    background-color: blue;
 }
 
 li a:hover {
