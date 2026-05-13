@@ -46,7 +46,7 @@ a {
     color: brown;
 }
 
-.img-fluid {
+.team {
     height: 300px;
     width: 300px;
     object-fit: cover;
@@ -60,7 +60,3 @@ a {
     color: red;
 }
 
-.calendar {
-    width: 500px;
-    height: 1000px;
-}
