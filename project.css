@@ -57,8 +57,9 @@ a {
 
 .quote {
     color: red;
-    fon-weight: bold;
+    font-weight: bold;
     font-size: 24px;
+    margin-top: 5px;
 }
 
 .speech,
