@@ -59,3 +59,8 @@ a {
 .quote {
     color: red;
 }
+
+.calendar {
+    width: 500px;
+    height: 1000px;
+}
