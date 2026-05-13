@@ -17,26 +17,27 @@ ul {
     list-style: none;
     margin: 0;
     padding: 0;
-    overflow: hidden; 
+    display: flex; 
+    background-color: transparent; 
 }
 
 li {
-    float: left;
-    border-right: 1px solid gray;
     margin: 0;
+    padding: 0;
+    flex-grow: 0; 
 }
 
 li a {
     display: block;
     color: white;
-    padding: 20px;
+    padding: 20px 30px;
     text-align: center;
     text-decoration: none;
-    background-color: blue;
+    background-color: blue; 
 }
 
 li a:hover {
-    background-color: red;
+    background-color: red; 
 }
 
 a {
